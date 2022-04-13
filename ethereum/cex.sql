@@ -103,6 +103,6 @@ COPY cex.addresses (wallet_address, name) FROM stdin;
 \\x111cff45948819988857bbf1966a0399e0d1141e bitFlyer
 \\xdf5021a4c1401f1125cd347e394d977630e17cf7	BITFRONT
 \\x88d34944cf554e9cccf4a24292d891f620e9c94f	Bithumb 1
-\\x186549a4ae594fc1f70ba4cffdac714b405be3f9 Bithumb 10
+\\x186549a4ae594fc1f70ba4cffdac714b405be3f9     Bithumb 10
 \\xd273bd546b11bd60214a2f9d71f22a088aafe31b	Bithumb 11
 \\x558553d54183a8542f7832742e7b4ba9c33aa1e6	Bithumb 12
