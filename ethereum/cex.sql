@@ -320,3 +320,70 @@ COPY cex.addresses (wallet_address, name) FROM stdin;
 \\x59fae149a8f8ec74d5bc038f8b76d25b136b9573       OKEx 5
 \\x98ec059dc3adfbdd63429454aeb0c990fba4a128       OKEx 6
 \\x5041ed759dd4afc3a72b8192c143f72f4724081a       OKEx 7
+\\x03e3ff995863828554282e80870b489cc31dc8bc       OMGFIN Exchange
+\\xaeec6f5aca72f3a005af1b3420ab8c8c7009bac8       OTCBTC
+\\xcacc694840ecebadd9b4c419e5b7f1d73fedf999       Panda.Exchange 1: Hot Wallet
+\\xb709d82f0706476457ae6bad7c3534fbf424382c       Panda.Exchange 2: Hot Wallet
+\\xbd8ef191caa1571e8ad4619ae894e07a75de0c35       Paribu 1
+\\x2bb97b6cf6ffe53576032c11711d59bd056830ee       Paribu 2
+\\xfb90501083a3b6af766c8da35d3dde01eb0d2a68       Paribu 3
+\\xabc74170f3cb8ab352820c39cc1d1e05ce9e41d3       Paribu 4
+\\x9acbb72cf67103a30333a32cd203459c6a9c3311       Paribu 5
+\\xd4dcd2459bb78d7a645aa7e196857d421b10d93f       Peatio
+\\x32be343b94f860124dc4fee278fdcbd38c102d88       Poloniex
+\\x209c4784ab1e8183cf58ca33cb740efbf3fc18ef       Poloniex 2
+\\xb794f5ea0ba39494ce839613fffba74279579268       Poloniex 3
+\\xa910f92acdaf488fa6ef02174fb86208ad7722ba       Poloniex 4
+\\xaa9fa73dfe17ecaa2c89b39f0bb2779613c5fc3b       Poloniex: BAT
+\\x2fa2bc2ce6a4f92952921a4caa46b3727d24a1ec       Poloniex: BNT
+\\x31a2feb9b5d3b5f4e76c71d6c92fc46ebb3cb1c1       Poloniex: CVC
+\\x6b71834d65c5c4d8ed158d54b47e6ea4ff4e5437       Poloniex: FOAM
+\\x48d466b7c0d32b61e8a82cd2bcf060f7c3f966df       Poloniex: GNO
+\\x0536806df512d6cdde913cf95c9886f65b1d3462       Poloniex: GNT
+\\x8d451ae5ee8f557a9ce7a9d7be8a8cb40002d5cb       Poloniex: KNC
+\\xbd2ec7c608a06fe975dbdca729e84dedb34ecc21       Poloniex: LOOM
+\\xc0e30823e5e628df8bc9bf2636a347e1512f0ecb       Poloniex: MANA
+\\x65f9b2e4d7aaeb40ffea8c6f5844d5ad7da257e0       Poloniex: NXC
+\\x36b01066b7fa4a0fdb2968ea0256c848e9135674       Poloniex: OMG
+\\xab11204cfeaccffa63c2d23aef2ea9accdb0a0d5       Poloniex: REP
+\\x6795cf8eb25585eadc356ae32ac6641016c550f2       Poloniex: SNT
+\\xfbf2173154f7625713be22e0504404ebfe021eae       Poloniex: STORJ
+\\x6f803466bcd17f44fa18975bf7c509ba64bf3825       Poloniex: USDC
+\\xead6be34ce315940264519f250d8160f369fa5cd       Poloniex: ZRX
+\\xd344539efe31f8b6de983a0cab4fb721fc69c547       QuantaEx 1
+\\x5ca39c42f4dee3a5ba8fec3ad4902157d48700bf       QuantaEx 2
+\\x2a048d9a8ffdd239f063b09854976c3049ae659c       QuantaEx 3
+\\xb8cf411b956b3f9013c1d0ac8c909b086218207c       Remitano 1
+\\x2819c144d5946404c0516b6f817a960db37d4929       Remitano 2
+\\x120a270bbc009644e35f0bb6ab13f95b8199c4ad       ShapeShift 1
+\\x9e6316f44baeeee5d41a1070516cc5fa47baf227       ShapeShift 2
+\\x70faa28a6b8d6829a4b1e649d26ec9a2a39ba413       ShapeShift 3
+\\x563b377a956c80d77a7c613a9343699ad6123911       ShapeShift 4
+\\xd3273eba07248020bf98a8b560ec1576a612102f       ShapeShift 5
+\\x3b0bc51ab9de1e5b7b6e34e5b960285805c41736       ShapeShift 6
+\\xeed16856d551569d134530ee3967ec79995e2051       ShapeShift 7
+\\x324cc2c9fb379ea7a0d1c0862c3b48ca28d174a4       SouthXchange
+\\x91f6d99b232153cb655ad3e0d05e13ef505f6cd5       Sparrow Exchange 1
+\\xe855283086fbee485aecf2084345a91424c23954       Sparrow Exchange 2
+\\x9bf25700727d10a857099d1033ce2cc493c3b61a       Streamity: StreamDesk
+\\xa96b536eef496e21f5432fd258b6f78cf3673f74       Switchain
+\\xea3a46bd1dbd0620d80037f70d0bf7c7dc5a837c       TAGZ 1
+\\xed8204345a0cf4639d2db61a4877128fe5cf7599       TAGZ 2
+\\x3613ef1125a078ef96ffc898c4ec28d73c5b8c52       Tidex 1
+\\x0a73573cf2903d2d8305b1ecb9e9730186a312ae       Tidex 2
+\\x0068eb681ec52dbd9944517d785727310b494575       Tokocrypto
+\\xb2cc3cdd53fc9a1aeaf3a68edeba2736238ddc5d       TopBTC
+\\x1119aaefb02bf12b84d28a5d8ea48ec3c90ef1db       Trade.io
+\\x2f1233ec3a4930fd95874291db7da9e90dfb2f03       Uex
+\\x390de26d772d2e2005c6d1d24afc902bae37a4bb       Upbit
+\\xba826fec90cefdf6706858e5fbafcb27a290fbe0       Upbit 2
+\\x5e032243d507c743b061ef021e2ec7fcc6d3ab89       Upbit 3
+\\xb436c96c6de1f50a160ed307317c275424dbe4f2       Vinex
+\\x39f6a6c85d39d5abad8a398310c52e7c374f2ba3       WhiteBIT
+\\x0e5069514a3dd613350bab01b58fd850058e5ca4       Wintermute
+\\xefda0cb780a8564903285ed25df3cc024f3b2982       XT.com Hot Wallet
+\\xf5bec430576ff1b82e44ddb5a1c93f6f9d0884f3       Yobit.net
+\\xd94c9ff168dc6aebf9b6cc86deff54f3fb0afc33       Yunbi 1
+\\x42da8a05cb7ed9a43572b5ba1b8f82a0a6e263dc       Yunbi 2
+\\x700f6912e5753e91ea3fae877a2374a2db1245d7       Yunbi 3
+\\x60d0cc2ae15859f69bf74dadb8ae3bd58434976b       ZB.com
