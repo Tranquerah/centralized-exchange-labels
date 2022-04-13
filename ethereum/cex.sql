@@ -81,7 +81,7 @@ COPY cex.addresses (wallet_address, name) FROM stdin;
 \\x2b49ce21ad2004cfb3d0b51b2e8ec0406d632513 Bitbee
 \\x5d375281582791a38e0348915fa9cbc6139e9c2a BitBlinx
 \\x7a91a362d4f2c9c4627688d5b7090bbb12e5715f Bitci
-\\x28ebe764b8f9a853509840645216d3c2c0fd774b	BiteBTC
+\\x28ebe764b8f9a853509840645216d3c2c0fd774b BiteBTC
 \\x7217d64f77041ce320c356d1a2185bcb89798a0a Bitexlive
 \\x57a47cfe647306a406118b6cf36459a1756823d0 Bitexlive 2
 \\x1151314c646ce4e0efd76d1af4760ae66a9fe30f Bitfinex 1
@@ -91,3 +91,18 @@ COPY cex.addresses (wallet_address, name) FROM stdin;
 \\x482f02e8bc15b5eabc52c6497b425b3ca3c821e8 Bitfinex 13
 \\x742d35cc6634c0532925a3b844bc454e4438f44e Bitfinex 2
 \\x876eabf441b2ee5b5b0554fd502a8e0600950cfa Bitfinex 3
+\\xdcd0272462140d0a3ced6c4bf970c7641f08cd2c Bitfinex 4
+\\x4fdd5eb2fb260149a3903859043e962ab89d8ed4 Bitfinex 5
+\\x1b29dd8ff0eb3240238bf97cafd6edea05d5ba82 Bitfinex 6
+\\x30a2ebf10f34c6c4874b0bdd5740690fd2f3b70c	Bitfinex 7
+\\x3f7e77b627676763997344a1ad71acb765fc8ac5	Bitfinex 8
+\\x59448fe20378357f206880c58068f095ae63d5a5	Bitfinex 9
+\\xab7c74abc0c4d48d1bdad5dcb26153fc8780f83e	Bitfinex: MultiSig 1
+\\xc6cde7c39eb2f0f0095f41570af89efc2c1ea828 Bitfinex: MultiSig 2
+\\xc61b9bb3a7a0767e3179713f3a5c7a9aedce193c Bitfinex: MultiSig 3
+\\x111cff45948819988857bbf1966a0399e0d1141e bitFlyer
+\\xdf5021a4c1401f1125cd347e394d977630e17cf7	BITFRONT
+\\x88d34944cf554e9cccf4a24292d891f620e9c94f	Bithumb 1
+\\x186549a4ae594fc1f70ba4cffdac714b405be3f9 Bithumb 10
+\\xd273bd546b11bd60214a2f9d71f22a088aafe31b	Bithumb 11
+\\x558553d54183a8542f7832742e7b4ba9c33aa1e6	Bithumb 12
